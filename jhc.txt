@@ -3,3 +3,4 @@ this is task
 git is widely used tool
 git is easy to work
 git is easy to work
+git is nice tool
