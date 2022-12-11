@@ -1,3 +1,4 @@
 about git lpull and fetch1
 this is task
 git is widely used tool
+git is easy to work
